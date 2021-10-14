@@ -7,6 +7,6 @@
 
 #Table of Content:
 - [Project Proposal](Regression Project Proposal.ipynb)
-- linear Regression and Web Scraping[Code]
-- linear Regression and Web Scraping [Presentation]
-- [Project Writeup]
+- linear Regression and Web Scraping[Code]()
+- linear Regression and Web Scraping [Presentation]()
+- [Project Writeup]()
