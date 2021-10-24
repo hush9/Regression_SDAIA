@@ -4,7 +4,7 @@ The Goal of This Project is to Create module of linear Regression to compare lap
 
 ## Table of Content:
 - [Project Proposal](Regression_Project_Proposal.ipynb)
-- Web Scrabing  & Linear Regression[Code](Final_Code.ipynb)
-- Web Scrabing  & Linear Regression [Presentation]()
+- Web Scrabing  & Linear Regression[Code](Linear_Regression_Alhuwaishel_Alnujaidy.ipynb)
+- Web Scrabing  & Linear Regression [Presentation](Linear_Regression_Alhuwaishel_Alnujaidy.pptx)
 - [Project Writeup]()
 
