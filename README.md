@@ -8,3 +8,6 @@ The Goal of This Project is to Create module of linear Regression to compare lap
 - Web Scrabing  & Linear Regression [Presentation](Linear_Regression_Alhuwaishel_Alnujaidy.pptx)
 - [Project Writeup](Linear_Regression_Alhuwaishel_Alnujaidy.docx)
 
+**Instructor:** [**Mr. Srinivas Rao**]()
+
+#Regression #AI #Data_Science
