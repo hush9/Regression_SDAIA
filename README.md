@@ -16,5 +16,6 @@ The goal of this project was to use Regression models to predict the Price of La
 #### [Abdullah Alhuwasiehl](https://github.com/hush966)
 #### [Abdalla Alnujaidy](https://github.com/aalnujaidy)
 
+### Supervised by: [**Mr. Srinivas Rao**]()
 
 #Regression #AI #Data_Science
